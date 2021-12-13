@@ -17,4 +17,5 @@ To run this app on your machine just download the files and run the following co
 
 After that the demo page should be available at [http://localhost:40002/card/helloworld](http://localhost:40002/card/helloworld).
 
-![](https://imgur.com/AImQ9zm)
+Here is the working deployed application:
+![](https://github.com/Kamila-Khamidullina/Project/blob/master/gif.gif)
